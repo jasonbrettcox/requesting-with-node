@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/den-wdi-2/requesting-with-node#readme",
   "dependencies": {
-    "request": "^2.79.0"
+    "request": "^2.83.0"
   }
 }
